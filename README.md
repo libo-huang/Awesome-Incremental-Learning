@@ -1,8 +1,6 @@
 # Awesome Incremental Learning / Lifelong learning
 ## Survey
-- <a name="todo"></a> Class-Incremental Le
--
-- arning: A Survey (**TPAMI 2024**)  [[paper](https://arxiv.org/abs/2302.03648)][[code](https://github.com/zhoudw-zdw/CIL_Survey/)]
+- <a name="todo"></a> Class-Incremental Learning: A Survey (**TPAMI 2024**)  [[paper](https://arxiv.org/abs/2302.03648)][[code](https://github.com/zhoudw-zdw/CIL_Survey/)]
 - <a name="todo"></a> Continual Learning with Pre-Trained Models: A Survey (**IJCAI 2024**)  [[paper](https://arxiv.org/abs/2401.16386)][[code](https://github.com/sun-hailong/LAMDA-PILOT)]
 - <a name="todo"></a> Continual Learning of Large Language Models: A Comprehensive Survey (**arXiv 2024**)  [[paper](https://arxiv.org/abs/2404.16789)][[code](https://github.com/Wang-ML-Lab/llm-continual-learning-survey)]
 - <a name="todo"></a> A Comprehensive Survey of Continual Learning: Theory, Method and Application (**TPAMI 2024**)  [[paper](https://arxiv.org/abs/2302.00487)]
